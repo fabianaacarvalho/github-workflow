@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+There is nothing permanent, except change.
+=======
+
 # github-workflow
 
-All that you change, changes you.
+To improve is to change.
+
+> > > > > > > main
+> > > > > > > All that you change, changes you.
